@@ -21,7 +21,7 @@ This is a simple macro for the roblox game star fishing.
 
 - Windows PC
 - [Autohotkey V2.0](https://www.autohotkey.com/)
-- moris star fishing macro.ahk
+- moris Star Fishing Macro.ahk
 - Roblox running
 
 ### Controls
