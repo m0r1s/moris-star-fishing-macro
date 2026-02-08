@@ -69,6 +69,8 @@ F3:: {
     }
 }
 
+F4::ExitApp
+
 ResizeRobloxWindow() {
     titles := ["Roblox", "ahk_exe RobloxPlayerBeta.exe", "ahk_exe RobloxPlayer.exe"]
     targetTitle := ""
@@ -117,6 +119,8 @@ UpdateTooltips() {
     } else {
         ToolTip("Autosell: Every " . autosellCycles . " cycles", 25, 382, 4)
     }
+    
+    ToolTip("F4: Exit", 25, 402, 5)
 }
 
 PerformAutosell() {
