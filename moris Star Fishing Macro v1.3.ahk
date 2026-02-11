@@ -129,16 +129,22 @@ PerformAutosell() {
     Send "3"
     Sleep 200
     MouseMove(240, 480)
+    Sleep 100
     Click
     MouseMove(242, 480)
+    Sleep 100
     Click
     MouseMove(244, 480)
+    Sleep 100
     Click
     MouseMove(617, 154)
+    Sleep 100
     Click
     MouseMove(619, 154)
+    Sleep 100
     Click
     MouseMove(621, 154)
+    Sleep 100
     Click
     Sleep 200
     MouseMove 479, 299
